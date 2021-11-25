@@ -11,7 +11,7 @@ make install
 
 
 #Masuk Direktori
-cd /usr/bin
+#cd /usr/bin
 
 #Encrypt File
 shc -f add-host
