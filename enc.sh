@@ -2,7 +2,7 @@
 
 #Install SHC
 apt-get install build-essential -y
-wget -c https://github.com/neurobin/shc/archive/4.0.2.tar.gz
+wget -c https://github.com/rockneters/encrypt/raw/main/shc-4.0.2.tar.gz
 tar xzvf 4.0.2.tar.gz 
 cd shc-4.0.2/
 ./configure 
